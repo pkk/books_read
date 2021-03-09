@@ -1,24 +1,8 @@
-# Books 2020 :
+# About
 
-## Science Fiction :
---------------------
-* Starsight - Brandon Sanderson
-* Skyward - Brandon Sanderson
-* One More Last Time - Eric Ugland
-* Heaven's River - Dennis E Taylor
+Listing the books I read every year here
 
-## Fantasy :
-------------
-* Way of Kings - Brandon Sanderson
-* Words of Radiance - Brandon Sanderson
-* Oathbringer - Brandon Sanderson
-* Dawnshard - Brandon Sanderson
+# Purpose
 
-## Self Improvement :
----------------------
-* Atomic Habits - James Clear
-* The Practicing Mind - Thomas M Sterner
-
-## Non-Fiction / Misc : 
------------------------
-* The Hard Thing About Hard Things - Ben Horowitz
+* Document it and share with family & friends
+* If time permits, I would also like to write a summary 
