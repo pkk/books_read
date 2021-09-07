@@ -8,3 +8,7 @@
 ## Self Improvement :
 ---------------------
 * Indistractable - Nir Eyal
+
+## Fantasy :
+------------
+* Rhythm of War - Brandon Sanderson
